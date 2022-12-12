@@ -20,7 +20,7 @@
 
 #showcase::before{
     content: '';
-    background: url(https://github.com/rv-code-29/Portfolio-Web-Design-and-Development/blob/75bff8c985489687b76c80ceb63dbc6643c72448/images/showcase.jpg) no-repeat center center/cover;
+    background: url(images/showcase.jpg) no-repeat center center/cover;
     top: 0;
     left: 0;
     width: 100%;
