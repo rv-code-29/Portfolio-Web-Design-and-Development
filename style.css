@@ -190,6 +190,7 @@
     width: 100%;
     padding: 1rem;
     border-radius: 10px;
+    border: none;
 }
 
 .contact_dir i{
